@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["configure_fonts","embedder_image_to_egui_image","load_cjk_fonts","load_pending_favicons","pointer_hits_browser_chrome","truncate_with_ellipsis"],"struct":["DevtoolsDock","Gui"]};

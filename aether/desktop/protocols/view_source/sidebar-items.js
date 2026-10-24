@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["attribute_value","charset_in_meta_tag","decoded","encoding_for","find_bytes","is_attr_name_byte","is_markup","label_after","may_fetch_viewed_scheme","meta_charset","origin_is_file","quoted_or_token_value","request_has_file_origin","skip_ascii_whitespace","viewed_url"],"mod":["document","markup"],"struct":["ViewSourceProtocolHandler"]};
