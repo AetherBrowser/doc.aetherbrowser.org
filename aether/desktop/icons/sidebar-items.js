@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["TOOLBAR_BUTTON_CORNER_RADIUS","TOOLBAR_BUTTON_SIZE","TOOLBAR_ICON_SIZE"],"enum":["ToolbarButtonVisualState","ToolbarIcon"],"fn":["add_toolbar_button","prepare_toolbar_svg","rasterize_svg","toolbar_button_fill_color","toolbar_button_visual_state"],"struct":["ToolbarIconCache"]};

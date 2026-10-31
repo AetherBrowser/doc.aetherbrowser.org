@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["STALE_MS"],"fn":["collect_script_tab_stats","current_thread_id","now_ms","publish_script_tab_stats","stats_dir","stats_path","unix_time_ms","unpublish_script_tab_stats"],"struct":["ScriptTabStats"]};

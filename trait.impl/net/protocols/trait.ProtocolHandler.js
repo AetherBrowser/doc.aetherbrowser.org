@@ -1,0 +1,9 @@
+(function() {
+    const implementors = Object.fromEntries([["aether",[["impl <a class=\"trait\" href=\"net/protocols/trait.ProtocolHandler.html\" title=\"trait net::protocols::ProtocolHandler\">ProtocolHandler</a> for <a class=\"struct\" href=\"aether/desktop/protocols/resource/struct.ResourceProtocolHandler.html\" title=\"struct aether::desktop::protocols::resource::ResourceProtocolHandler\">ResourceProtocolHandler</a>",0],["impl <a class=\"trait\" href=\"net/protocols/trait.ProtocolHandler.html\" title=\"trait net::protocols::ProtocolHandler\">ProtocolHandler</a> for <a class=\"struct\" href=\"aether/desktop/protocols/servo/struct.ServoProtocolHandler.html\" title=\"struct aether::desktop::protocols::servo::ServoProtocolHandler\">ServoProtocolHandler</a>",0],["impl <a class=\"trait\" href=\"net/protocols/trait.ProtocolHandler.html\" title=\"trait net::protocols::ProtocolHandler\">ProtocolHandler</a> for <a class=\"struct\" href=\"aether/desktop/protocols/urlinfo/struct.UrlInfoProtocolHander.html\" title=\"struct aether::desktop::protocols::urlinfo::UrlInfoProtocolHander\">UrlInfoProtocolHander</a>",0],["impl <a class=\"trait\" href=\"net/protocols/trait.ProtocolHandler.html\" title=\"trait net::protocols::ProtocolHandler\">ProtocolHandler</a> for <a class=\"struct\" href=\"aether/desktop/protocols/view_source/struct.ViewSourceProtocolHandler.html\" title=\"struct aether::desktop::protocols::view_source::ViewSourceProtocolHandler\">ViewSourceProtocolHandler</a>",0]]],["net",[]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":59,"fragment_lengths":[1433,11]}

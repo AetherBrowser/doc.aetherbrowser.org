@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AppState"],"fn":["load_userscripts","publish_open_tabs"],"struct":["App"]};
