@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DEFAULT_RETENTION_DAYS","HISTORY_SETTINGS_FILE"],"enum":["HistoryUpdate"],"fn":["deletion_start","history_update","load_retention_days","open_history","parse_retention_days","retention_period","save_retention_days","should_record"],"struct":["ActiveEntry","HistoryPage"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MIGRATIONS"],"enum":["HistoryCommand"],"fn":["insert_place","microseconds_since_epoch","migrate","record_visit","replace_visit","set_title","stored_url"],"struct":["HistoryStore"]};

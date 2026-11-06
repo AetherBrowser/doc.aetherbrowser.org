@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["EXPIRATION_INTERVAL","HISTORY_UNAVAILABLE"],"enum":["CleanerRequest"],"fn":["clean","expire","expire_or_warn","run","write"],"struct":["CleanerReply","HistoryCleaner","HistoryService"],"type":["Reply"]};

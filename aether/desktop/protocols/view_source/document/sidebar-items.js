@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["STYLE"],"fn":["escaped","lines","open_line","push_escaped","push_run","source_document"]};

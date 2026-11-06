@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CMD_OR_CONTROL_SHIFT","CONTROL","CONTROL_SHIFT","NONE","PLATFORM_SHORTCUTS","SHIFT","SHORTCUTS"],"enum":["BrowserAction","Dispatch","ShortcutKey"],"fn":["all_shortcuts","is_text_editing_key","key_matches","page_first","reserved","shortcut_for","shortcut_label","us_layout_character"],"struct":["Shortcut"]};
