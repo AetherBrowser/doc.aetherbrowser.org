@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["can_bookmark"],"struct":["Bookmarks","PendingToggle"]};

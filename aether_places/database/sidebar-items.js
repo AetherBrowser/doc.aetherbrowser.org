@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MIGRATIONS","UNUSED_PLACE"],"enum":["PlacesCommand"],"fn":["delete_place_if_unused","delete_unused_places","insert_place","microseconds_since_epoch","migrate","stored_url","without_credentials"],"struct":["PlacesStore"]};

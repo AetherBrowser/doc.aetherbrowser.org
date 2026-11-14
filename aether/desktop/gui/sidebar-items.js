@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BOOKMARK_STAR_INSET","LOCATION_CORNER_RADIUS","LOCATION_TEXT_MARGIN"],"fn":["configure_fonts","embedder_image_to_egui_image","load_cjk_fonts","load_pending_favicons","location_id","location_text","pointer_hits_browser_chrome","truncate_with_ellipsis"],"struct":["DevtoolsDock","Gui"]};

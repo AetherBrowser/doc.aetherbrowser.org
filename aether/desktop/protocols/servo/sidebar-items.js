@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["forbidden_response","internal_endpoint_is_hidden","internal_json_request_is_allowed","is_history_page_url","is_settings_page_url","json_response","json_response_when_ready","page_response","request_is_from_history_page","request_is_from_settings_page","request_is_from_web_content"],"struct":["ServoProtocolHandler"]};
