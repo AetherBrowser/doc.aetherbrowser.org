@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["processes","resource","servo","urlinfo","view_source"]};

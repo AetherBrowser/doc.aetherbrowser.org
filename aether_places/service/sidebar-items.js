@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["EXPIRATION_INTERVAL","HISTORY_UNAVAILABLE"],"enum":["CleanerRequest"],"fn":["clean","expire","expire_or_warn","read_bookmarks","run","write"],"struct":["BookmarksPublisher","CleanerReply","HistoryCleaner","PlacesRequest","PlacesService","SavedBookmarks"],"type":["Reply"]};
