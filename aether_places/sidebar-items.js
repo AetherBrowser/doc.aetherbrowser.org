@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["without_credentials"],"mod":["bookmarks","database","history","service"],"struct":["CleanerReply","HistoryCleaner","PlacesService","PlacesStore","SavedBookmarks"]};

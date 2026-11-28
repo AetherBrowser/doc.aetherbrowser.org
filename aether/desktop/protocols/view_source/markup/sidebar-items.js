@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["TokenKind"],"fn":["is_attribute_name_byte","is_tag_name_byte","is_tag_separator_byte","push_raw_text","push_run","push_text","push_until","raw_text_element_end_tag","read_attribute_value","read_entity","read_markup","read_start_tag","run_end","tokenize"],"struct":["Token"]};

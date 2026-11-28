@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BLOCKLIST_FILE","CONFIG_FILE","PREF_ENABLED","PREF_FILTER_LISTS","PREF_WHITELIST"],"fn":["handle_content_filter_request","install_content_filter","json_settings","load_settings","save_settings","string_list","write_atomic"],"static":["INSTALLED"],"struct":["FilterSettings","InstalledFilter"]};
